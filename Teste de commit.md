@@ -3,3 +3,5 @@
 Arquivo de teste para commit. Agora testando se o usuário foi validado.
 
 Segundo Teste.
+
+Terceiro Teste.
